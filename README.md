@@ -15,7 +15,7 @@ I'm a **Senior iOS Developer with 7+ years of experience**, skilled in building 
 
 ### 🛠 Skills & Technologies
 
-**Languages:** Swift, SwiftUI, Objective-C(basic), Python (learning)  
+**Languages:** Swift, SwiftUI, Python (learning)  
 **Frameworks:** UIKit, Combine, CoreML, AVFoundation, Vision, WidgetKit, CoreData  
 **Architecture:** MVVM, MVC, Clean Architecture, Coordinator, Redux  
 **App Extensions:** Custom Keyboard, iMessage, Widgets  
@@ -54,7 +54,7 @@ I'm a **Senior iOS Developer with 7+ years of experience**, skilled in building 
 
 ### 🔗 Connect with me
 
-[LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com/ItzSukhi) • Email: **sukhamallan@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/itzsukhwinder) • [GitHub](https://github.com/ItzSukhi) • Email: **sukhamallan@gmail.com**
 
 ---
 
