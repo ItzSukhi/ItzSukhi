@@ -28,12 +28,12 @@ I'm a **Senior iOS Developer with 7+ years of experience**, skilled in building 
 | App Name | Description | Link |
 |--------|-------------|------|
 | Wells Fargo Vantage | Enterprise banking solution with SwiftUI | [App Store](https://apps.apple.com/us/app/wells-fargo-vantage/id335685323) |
-| Video Editor & Slideshow Maker | Filters, effects, transitions, recording, stickers, more | [App Store](https://apps.apple.com/in/app/video-editor-slideshow-maker/id1049220609) |
-| Fonts Keyboard - Font Maker | Custom keyboard with fonts & themes | [App Store](https://apps.apple.com/in/app/fonts-keyboard-font-maker-app/id1477959458) |
-| Icon Changer | Home screen customization & widgets | [App Store](https://apps.apple.com/in/app/icon-changer-aesthetic-app/id1544081184) |
+| Video Editor - Movie Maker Pro | Filters, effects, transitions, recording, stickers, more | [App Store](https://apps.apple.com/in/app/video-editor-slideshow-maker/id1049220609) |
+| Fonts keyboard Font Maker app | Custom keyboard with fonts & themes | [App Store](https://apps.apple.com/in/app/fonts-keyboard-font-maker-app/id1477959458) |
+| Icon changer Aesthetic App | Home screen customization & widgets | [App Store](https://apps.apple.com/in/app/icon-changer-aesthetic-app/id1544081184) |
 | Color Widgets | Multiple widget styles & customization | [App Store](https://apps.apple.com/in/app/color-widgets/id1531594277) |
 | UVDI-360 | BLE-based sanitizer device control & monitoring | [App Store](https://apps.apple.com/in/app/uvdi-360/id1516308479) |
-| CityRide | Transportation recharge & payment system | [App Store](https://apps.apple.com/in/app/ladot-cityride/id1533294154) |
+| LADOT Cityride | Transportation recharge & payment system | [App Store](https://apps.apple.com/us/app/ladot-cityride/id1533294154) |
 
 ---
 
