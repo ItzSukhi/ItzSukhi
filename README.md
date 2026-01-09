@@ -17,7 +17,7 @@ I'm a **Senior iOS Developer with 7+ years of experience**, skilled in building 
 
 **Languages:** Swift, SwiftUI, Python (learning)  
 **Frameworks:** UIKit, Combine, CoreML, AVFoundation, Vision, WidgetKit, CoreData  
-**Architecture:** MVVM, MVC, Clean Architecture, Coordinator, Redux  
+**Architecture:** MVVM, MVC, Clean Architecture, Coordinator  
 **App Extensions:** Custom Keyboard, iMessage, Widgets  
 **Tools:** Xcode, Git, GitHub, Jenkins, Fastlane, SPM, CocoaPods  
 
