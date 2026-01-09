@@ -53,7 +53,7 @@ I'm a **Senior iOS Developer with 7+ years of experience**, skilled in building 
 ### 🔗 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/itzsukhwinder) • [GitHub](https://github.com/ItzSukhi) • Email: **sukhamallan@gmail.com**
-[Portfolio] (https://itzsukhi.github.io/)
+[Portfolio](https://itzsukhi.github.io/)
 
 ---
 
