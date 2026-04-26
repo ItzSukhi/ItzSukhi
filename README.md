@@ -27,6 +27,7 @@ I'm a **Senior iOS Developer with 7+ years of experience**, skilled in building 
 
 | App Name | Description | Link |
 |--------|-------------|------|
+| Coutts | For Coutts clients to manage finances | [App Store](https://apps.apple.com/in/app/coutts/id1534159074) |
 | Wells Fargo Vantage | Enterprise banking solution with SwiftUI | [App Store](https://apps.apple.com/us/app/wells-fargo-vantage/id335685323) |
 | Video Editor - Movie Maker Pro | Filters, effects, transitions, recording, stickers, more | [App Store](https://apps.apple.com/in/app/video-editor-slideshow-maker/id1049220609) |
 | Fonts keyboard Font Maker app | Custom keyboard with fonts & themes | [App Store](https://apps.apple.com/in/app/fonts-keyboard-font-maker-app/id1477959458) |
